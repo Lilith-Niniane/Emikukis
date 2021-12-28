@@ -1,0 +1,28 @@
+{
+    "link": "See More",
+    "title": "Servicios",
+    "main-notice": {
+        "currency": "Divisa de pago es en EUROS  €",
+        "listed": "Todos los precios son precios base y pueden variar dependiendo de las circunstancias.",
+        "commercial": "Todo se considera comercial. El trabajo está destinado para Vtubers, Streamers u otros creadores de contenido."
+    },
+    "services": {
+        "sketch": "Sketch/Lineas",
+        "character": "Personaje detallado/OC",
+        "design": "Diseño de personaje",
+        "chibi": "Chibi/Chobi",
+        "emotes": "Emotes + Insignias",
+        "vtube": "Vtuber/Live2d"
+    },
+    "notice": {
+        "title": ">> Aviso <<",
+        "notices": {
+            "free": "fondo png/sin fondo es gratis",
+            "extra": "Los accesorios, objetos y animales adicionales pueden variar alrededor de € 10- € 50 tarifa adicional dependiendo de los detalles (¡no se aplica a los emoticones de twitch!)",
+            "background": "El fondo puede variar alrededor de € 5- € 100 tarifa adicional dependiendo de los detalles (¡no se aplica a los emoticones / insignias / alertas / paneles de Twitch!)",
+            "other": "Si está interesado en otros tipos de comisiones, no dude en enviarme un correo electrónico o escribirme en twitter @emikukis. Podemos discutir cosas allí.",
+            "nsfw": "Las comisiones de NSFW costarán x1,5 veces el precio de mis comisiones habituales."
+
+        }
+    }
+}

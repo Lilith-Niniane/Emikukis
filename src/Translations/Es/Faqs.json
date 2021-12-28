@@ -1,0 +1,73 @@
+{
+    "notice": "¡Antes de realizar el pedido, asegúrese de que mis comisiones estén abiertas! (puede comprobar el estado en la",
+    "homepage": "pantalla de inicio",
+    "agree": "Y que has leído y estás de acuerdo con mi",
+    "importan-info": {
+        "title": "INFORMACIÓN QUE NECESITAS SABER:",
+        "payments": "Pagos mediante",
+        "money": "Se deberá entregar el pago antes de empezar a realizar la ilustración",
+        "date": "Si desea prioridad en la waitlist tendrás que pagar un precio extra 100€",
+        "contact": "También puedes contactarme correo:"
+    },
+    "process": {
+        "title": "PROCESO",
+        "steps": {
+            "beggin": {
+                "title": "INICIO",
+                "info": "Me enviarás las imágenes y referencias necesarias para hacer la comisión.(Entre mas referencias y mas detallada sea la información, mejores resultados)"
+            },
+            "waiting": {
+                "title": "LISTA DE ESPERA",
+                "info": "Una vez realizado el pago, entrarás en una lista de espera en la que se te dará una fecha aproximada para entregar la ilustración. (Exepciones con pago extra.)"
+            },
+            "sketch": {
+                "title": "BOCETO",
+                "info": "Se empieza el boceto  y se envía al cliente. (En esta etapa se podrán cambiar poses/forma/color...)"
+            },
+            "end": {
+                "title": "RESULTADO FINAL",
+                "info": "Sólo se podrán cambiar detalles simples como; el color o pequeños detalles. Se enviará la comisión por email."
+            }
+        }
+    },
+    "send-email": "Envíe el formulario completo a mi email/twitter or discord: ",
+    "beggining-eg": {
+        "username": {
+            "title": "Nombre de usuario:",
+            "info": "[tu nombre o alias]"
+        },
+        "type": {
+            "title": "Type:",
+            "info": "[e.g bustup, chibi, etc.]"
+        },
+        "style": {
+            "title": "Style:",
+            "info": "[e.g sketch; base colored etc.]"
+        },
+        "amount": {
+            "title": "Amount of characters:",
+            "info": "[no more tha 4]"
+        },
+        "personality": {
+            "title": "Personality:",
+            "info": "[2-5 words are enough ",
+            "high": "no backstory ",
+            "info2": "or wall of text please!]"
+        },
+        "reference": {
+            "title": "References:",
+            "info": "[Link(s) to their design]" 
+        },
+        "other": {
+            "Other Details": "References:",
+            "info": "[Things like which ",
+            "high": "background, pose ",
+            "info2": "or other extras you want]" 
+        },
+        "payment": {
+            "Payment": "References:",
+            "info": "[Link(s) to their design]" 
+        }
+    },
+    "footer": "No dibujaré mechas o diseños / fondos complejos. Todo lo demás está bien, pero también puedes preguntarme si no estás seguro ♥"
+}

@@ -1,0 +1,81 @@
+{
+    "notice": "Before ordering please make sure that my commissions are open! (you can check the status on the",
+    "homepage": "home page",
+    "agree": "And that you've read and agree to my",
+    "importan-info": {
+        "title": "INFORMATION YOU NEED TO KNOW:",
+        "payments": "Payments with",
+        "money": "You should send the money before start the commission",
+        "date": "If you need the commission for a specific date and you do not want to wait, you can pay an extra pay of 100€",
+        "contact": "Also you can contact me in:"
+    },
+    "process": {
+        "title": "PROCESS",
+        "steps": {
+            "beggin": {
+                "title": "BEGGINING",
+                "info": "You will send me the necessary images and references to make the commission. (With more references and the more detailed the information,  will be better the results)"
+            },
+            "waiting": {
+                "title": "WAITING LIST",
+                "info": "Once the payment has been made, you will enter  in a waiting list in which you will be given an approximate date to deliver the illustration. (Exceptions with extra payment.)"
+            },
+            "sketch": {
+                "title": "SKETCH",
+                "info": "The sketch is started and sent to the client. (At this stage you can change poses / shape / color ...)"
+            },
+            "end": {
+                "title": "FINAL RESULT",
+                "info": "Only simple details can be changed; the color or small details. The commission will be sent by email."
+            }
+        }
+    },
+    "send-email": "Send the filled out form to my email/twitter or discord:",
+    "beggining-eg": {
+        "username": {
+            "title": "Username:",
+            "info": "[Your name or alias]"
+        },
+        "type": {
+            "title": "Type:",
+            "info": "[e.g bustup, chibi, etc.]"
+        },
+        "style": {
+            "title": "Style:",
+            "info": "[e.g sketch; base colored etc.]"
+        },
+        "amount": {
+            "title": "Amount of characters:",
+            "info": "[no more tha 4]"
+        },
+        "personality": {
+            "title": "Personality:",
+            "info": {
+                "start": "[2-5 words are enough ",
+                "high": "no backstory ",
+                "end": "or wall of text please!]"
+            }
+        },
+        "reference": {
+            "title": "References:",
+            "info": "[Link(s) to their design]" 
+        },
+        "other": {
+            "title": "References:",
+            "info": {
+                "start": "[Things like which ",
+                "high": " background, pose ",
+                "end": "or other extras you want]" 
+            }
+        },
+        "payment": {
+            "title": "Payment:",
+            "info": {
+                "start": "[",
+                "link": "Paypal only! #*https://www.paypal.com/paypalme/emikukis",
+                "end": "Please include your Paypal email.]"
+            }
+        }
+    },
+    "footer": "I won't draw mechas or complex designs/backgrounds. Everything else is okay but you can also ask me if you're unsure ♥"
+}

@@ -1,0 +1,16 @@
+{
+    "alert": "Este NO es el sitio oficial de Emikukis, para ver sus actualizaciones y contactarte con ella, puedes ir a sus sitio presionando OK, para seguir viendo persiona CANCELAR",
+    "commissions": {
+        "title": "Comisiones",
+        "waiting": "Lista de espera:",
+        "waiting-status": "Abierta",
+        "profession": "Artista digital",
+        "email-notice": "Para comisiones comerciales, por favor manda un email a"
+    },
+    "about": {
+        "title": "Sobre Mí",
+        "greeting": "¡Hola!",
+        "desc1": "Soy Emikukis, una artista de estilo anime que hace ilustraciones y modelos vtuber arte/rigs dentro de Live2d para streamers y demás",
+        "desc2": "Desde Julio del 2021, ser artista y vtuber son mi trabajo de tiempo completo y mi más grande pasión"
+    }
+}

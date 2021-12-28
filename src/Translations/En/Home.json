@@ -1,0 +1,16 @@
+{
+    "alert": "This is NOT emikukis official website, to se her updates and contact her, go to her website by clicking OK, to continue watching click CANCEL",
+    "commissions": {
+        "title": "Commissions",
+        "waiting": "Waiting-List:",
+        "waiting-status": "Open",
+        "profession": "Digital artist",
+        "email-notice": "For comercial commissions please send an email to"
+    },
+    "about": {
+        "title": "About Me",
+        "greeting": "¡Hey there!",
+        "desc1": "I'm Emikukis, an anime-style artist who makes illustrations and vtuber models art/rigs within Live2d for stramers and such.",
+        "desc2": "Since July 2021, art and being a vtuber are my full time job and biggest passion. :D"
+    }
+}

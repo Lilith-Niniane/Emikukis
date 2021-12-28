@@ -1,0 +1,54 @@
+{
+    "notice": "If you are NOT comfortable with my T.O.S and/or are not going to agree to them, I might not be the artist you looking for.",
+    "title": "Terms of Service",
+    "terms": {
+        "general": {
+            "title": "General info",
+            "list": {
+                "1": "You may repost my works with properly given credit.",
+                "2": "I own the work in a manner that I can post it on social media or feature it elsewhere if not discussed specifically beforehand (If discussed, I will not post anything concerning the commission until you are willing to make it public yourself or after your “debut”).",
+                "3": "I can cancel or decline your order at any time if the work environment does not meet my standards or if I don’t like the client’s attitude. I can initiate a refund in this case.",
+                "4": "I am not in charge of sending WIPs unless asked for or I feel the need to but you can always request WIPs for you to post on social media or to simply check up on how the model is looking. You can also request changes at any time.",
+                "5": "The sketch phase is your chance to tell me what you want to be changed: expressions, details, pose, etc. Please don't be shy if something really doesn't sit well with you. I do my best to capture the character's personality but sometimes I do make mistakes, especially if it wasn't clear from the order.",
+                "6": "By purchasing any of my services you are automatically accepting my terms of service and being obligated to follow them. As well as promising you won't harm any of these rules."
+            }
+        },
+        "payment": {
+            "title": "Ordering and Payment",
+            "list": {
+                "1": "After negotiating the price for the commission I will send an invoice through Paypal. I will receive half of the payment up-front.",
+                "2": "If your character is extremely detailed, I have the right to charge extra. This will be stated before you send the payment. You may switch out the character if you do not want to pay for detailed charges.",
+                "3": "If a commissioner repeatedly commissions me but in the end always canceling the order, I will consider you a time-waster and blacklist you."
+            }
+        },
+        "refund": {
+            "title": "Refund rules",
+            "list": {
+                "1": "The amount of the refundable payment depends on the stage the commission is in at the time of the request. I can refund 100% of the payment ONLY If I have not started working on the sketch.",
+                "2": "Not Started: 100% Refund",
+                "3": "Sketch:  50% Refund + Sketch is sent",
+                "4": "Line Art: 30% Refund",
+                "5": "Completed Art: NO REFUNDS"
+            }
+        },
+        "deadline": {
+            "title": "Deadline and work speed",
+            "list": {
+                "1": "You may set a deadline if you wish but it must be reasonable. The maximum time I need to finish a digital commission could take up to 2 weeks to 2 months depending on how busy I am.",
+                "2": "If you need your finished piece quickly and wish for your commission to be PRIORITY, there will be an option to purchase a rush fee depending on how fast you want it to be done.",
+                "3": "Check my To-Do List whenever you want for a status update.",
+                "4": "The maximum you'll have to wait for your commission is 3-4 months. ( in the worst case, which is not the usual but it may happen.)"
+            }
+        },
+        "changes": {
+            "title": "Changes",
+            "list": {
+                "1": "The responsibility is on you to ensure your order contains the details you want me to follow.",
+                "2": "Once the picture is finished I can do small changes such as color adjustments and/or adding tiny details I may have forgotten.",
+                "3": "If it's a change you want and I did not have clear, obvious information when you ordered the art, I will not make the changes unless additional fees are paid (exact amount to be determined, depending on the scale of the change).",
+                "4": "Make sure to be clear in your order what you aim for."
+            }
+        }
+    },
+    "footer": "By commissioning me, it means you have read and accepted all the terms outlined above and provide all image credits to me, Emikukis."
+}

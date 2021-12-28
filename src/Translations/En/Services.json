@@ -1,0 +1,28 @@
+{
+    "link": "See More",
+    "title": "Services",
+    "main-notice": {
+        "currency": "Currency is Euro €",
+        "listed": "All listed prices are base prices and can vary depending on other circumstances.",
+        "commercial": "Everything is considered commercial. These are listed for Vtubers, Streamers, or other content creators."
+    },
+    "services": {
+        "sketch": "Sketch/Outlines",
+        "character": "Detailed character/OC",
+        "design": "Character design",
+        "chibi": "Chibi/Chobi",
+        "emotes": "Emotes + Badges",
+        "vtube": "Vtuber/Live2d"
+    },
+    "notice": {
+        "title": ">> NOTICE <<",
+        "notices": {
+            "free": "png, one color bg for free",
+            "extra": "Extra props, objects, animals, can vary around 10€-50€ additional fee depending on details (does not apply for twitch emotes!)",
+            "background": "background can vary around 5€-100€ additional fee depending on details (does not apply for twitcj emotes/badges/alerts/panels!)",
+            "other": "If you are interested in other commission types please don't hesitate to email me or my twitter @emikukis. we can discus things there.",
+            "nsfw": "NSFW commissions will cost 1,5x the price of my ususal comissions prices"
+
+        }
+    }
+}

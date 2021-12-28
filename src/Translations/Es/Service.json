@@ -1,0 +1,37 @@
+{
+    "vtuber": {
+        "half-body": "Medio cuerpo",
+        "full-body": "Cuerpo entero",
+        "at-start": "Al principio",
+        "rigging": "Solo rigging",
+        "half-only": "Solo arte, medio cuerpo",
+        "full-only": "Solo arte, cuerpo entero",
+        "create-illus": "Crear la ilustración",
+        "movement": "Movimineto (ojos, boca, cabeza...)",
+        "your-design": "Si tienes el diseño (.PSD) listo para lectura"
+    },
+    "detailed": {
+        "title": "Personaje detallado/OC",
+        "bust": "Busto",
+        "waist": "Arriba de la cintura",
+        "full": "Cuerpo entero",
+        "includes": "Incluye personajes completamente coloreados, fondos simples/sólidos",
+        "extra": "Personaje extra"
+    },
+    "emote": {
+        "title": "Emotes e Insignias",
+        "emote-badges": "Emote/Insignias",
+        "position": "Puedes elegir las posiciones que quieras o expresiones que desees.",
+        "sizes": "TAMBIÉN TE MANDARÉ LAS IMÁGENES EN DISTINTOS TAMAÑOS",
+        "emotes": "EMOTES",
+        "badges": "INSIGNIAS",
+        "and": "y"
+    },
+    "chibi": {
+        "bust": "Busto",
+        "full": "Cuerpo entero",
+        "includes": "Incluye personaje completamente coloreado con forma de chibi/chobi. El fondo es sólido y simple.",
+        "extra": "Personaje extra"
+    },
+    "not-available": "No disponible en este momento, meperdonas?"
+}

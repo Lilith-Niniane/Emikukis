@@ -1,0 +1,37 @@
+{
+    "vtuber": {
+        "half-body": "Half body",
+        "full-body": "Full body",
+        "at-start": "At start",
+        "rigging": "Rigging-only",
+        "half-only": "Half body art only",
+        "full-only": "Full body art only",
+        "create-illus": "Create the ilustration",
+        "movement": "Movement (eyes, mouth, head...)",
+        "your-design": "If you have the design (.PSD) ready for reading"
+    },
+    "detailed": {
+        "title": "Detailed Character/OC",
+        "bust": "Bust",
+        "waist": "Waist up",
+        "full": "Full body",
+        "includes": "Includes full colored characters, simple/solid backgrounds",
+        "extra": "Extra character"
+    },
+    "emote": {
+        "title": "Emotes and Badges",
+        "emote-badges": "Emote/Badges",
+        "position": "You can choose the positions or expresions you want.",
+        "sizes": "ALSO I WILL SEND YOU THE IMAGES WITH THE DIFFERENT SIZES",
+        "emotes": "EMOTES",
+        "badges": "BADGES",
+        "and": "and"
+    },
+    "chibi": {
+        "bust": "Bust",
+        "full": "Full body",
+        "includes": "Includes character full color chibi/chobi shaped. The background is solid and simple.",
+        "extra": "Extra character"
+    },
+    "not-available": "Not available at the moment, sorry"
+}

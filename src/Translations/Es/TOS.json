@@ -1,0 +1,54 @@
+{
+    "notice": "Si NO se siente cómodo con mi T.O.S y / o no va a estar de acuerdo con ellos, Puede que no sea el artista que estás buscando.",
+    "title": "Términos de servicio",
+    "terms": {
+        "general": {
+            "title": "Información general",
+            "list": {
+                "1": "Puede volver a publicar mis trabajos con el crédito debidamente otorgado.",
+                "2": "Soy dueño del trabajo de una manera que puedo publicarlo en las redes sociales o presentarlo en otro lugar si no se discutió específicamente de antemano (si se discute, no publicaré nada relacionado con la comisión hasta que esté dispuesto a hacerlo público usted mismo o después de su ”debut”)",
+                "3": "Puedo cancelar o rechazar su pedido en cualquier momento si el entorno de trabajo no cumple con mis estándares o si no me gusta la actitud del cliente. Puedo iniciar un reembolso en este caso.",
+                "4": "No estoy a cargo de enviar WIP a menos que me lo pidan o sienta la necesidad de hacerlo, pero siempre puede solicitar WIP para que los publique en las redes sociales o simplemente para verificar cómo se ve la modelo. También puede solicitar cambios en cualquier momento.",
+                "5": "La fase de boceto es tu oportunidad de decirme lo que quieres que cambie: expresiones, detalles, pose, etc. Por favor, no seas tímido si algo realmente no te sienta bien. Hago todo lo posible para capturar la personalidad del personaje, pero a veces cometo errores, especialmente si no estaba claro en el orden.",
+                "6": "Al comprar cualquiera de mis servicios, automáticamente acepta mis términos de servicio y está obligado a seguirlos. Además de prometer que no dañará ninguna de estas reglas."
+            }
+        },
+        "payment": {
+            "title": "Pedido y pago",
+            "list": {
+                "1": "Después de negociar el precio de la comisión, enviaré una factura a través de Paypal. Recibiré la mitad del pago por adelantado.",
+                "2": "Si tu personaje es extremadamente detallado, tengo derecho a cobrar más. Esto se indicará antes de enviar el pago. Puedes cambiar el personaje si no quieres pagar los cargos detallados.",
+                "3": "Si un comisionado me encarga repetidamente pero al final siempre cancela el pedido, lo consideraré una pérdida de tiempo y lo incluiré en la lista negra."
+            }
+        },
+        "refund": {
+            "title": "Reglas de reembolso",
+            "list": {
+                "1": "El monto del pago reembolsable depende de la etapa en la que se encuentre la comisión en el momento de la solicitud. Puedo reembolsar el 100% del pago SOLO si no he comenzado a trabajar en el boceto.",
+                "2": "No iniciado: Reembolso del 100%",
+                "3": "Boceto: 50% de reembolso + Se envía el boceto",
+                "4": "Arte lineal: Reembolso del 30%",
+                "5": "Arte completado: NO HAY REEMBOLSOS"
+            }
+        },
+        "deadline": {
+            "title": "Plazos y velocidad de trabajo",
+            "list": {
+                "1": "Puede establecer una fecha límite si lo desea, pero debe ser razonable. El tiempo máximo que necesito para terminar una comisión digital puede tomar de 2 semanas a 2 meses, dependiendo de lo ocupado que esté.",
+                "2": "Si necesita su pieza terminada rápidamente y desea que su comisión sea PRIORITARIA, habrá una opción para comprar una tarifa urgente dependiendo de qué tan rápido desee que se haga.",
+                "3": "Consulte mi lista de espera pendientes siempre que lo desee para obtener una actualización de estado.",
+                "4": "El máximo que tendrás que esperar por tu comisión es de 3-4 meses. (en el peor de los casos, que no es lo habitual pero puede suceder)."
+            }
+        },
+        "changes": {
+            "title": "Cambios",
+            "list": {
+                "1": "Usted es responsable de asegurarse de que su pedido contenga los detalles que desea que siga.",
+                "2": "Una vez que la imagen está terminada, puedo hacer pequeños cambios como ajustes de color y / o agregar pequeños detalles que quizás haya olvidado.",
+                "3": "Si es un cambio que desea y no tenía información clara y obvia cuando ordenó el arte, no haré los cambios a menos que se paguen tarifas adicionales (monto exacto por determinar, dependiendo de la escala del cambio).",
+                "4": "Asegúrese de dejar claro en su pedido lo que busca."
+            }
+        }
+    },
+    "footer": "By commissioning me, it means you have read and accepted all the terms outlined above and provide all image credits to me, Emikukis."
+}
