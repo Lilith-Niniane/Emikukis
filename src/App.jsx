@@ -32,27 +32,27 @@ const App = () => {
           <Navbar />
         <div style={{flex: "1"}}>
           <Routes>
-            <Route path='/' element={<Home />} />
-            <Route path='/tos' element={<TermsOfService />} />
-            <Route path='/faqs' element={<Faqs />} />
-            <Route path='/services' element={<Services />} />
-            <Route path='/artwork' element={
+            <Route path='/Emikukis' element={<Home />} />
+            <Route path='/Emikukis/tos' element={<TermsOfService />} />
+            <Route path='/Emikukis/faqs' element={<Faqs />} />
+            <Route path='/Emikukis/services' element={<Services />} />
+            <Route path='/Emikukis/artwork' element={
               <ArtWork gallery={artwork}>
                 <h1>Client Work</h1>
               </ArtWork>
             }/>
-            <Route path='/vtuber' element={
+            <Route path='/Emikukis/vtuber' element={
               <ArtWork gallery={vtuber}>
                 <h1>Client Work</h1>
               </ArtWork>
             }/>
-             <Route path='/emotes' element={
+             <Route path='/Emikukis/emotes' element={
               <ArtWork gallery={emotes}>
                 <h1>Client Work</h1>
               </ArtWork>
             }/>
           </Routes>
-          {window.location.pathname === '/' ? null :
+          {window.location.pathname === '/Emikukis' ? null :
             <Footer />
           }
         </div>

@@ -23,23 +23,23 @@ const Navbar = () => {
                 <Links>
                     <Img src='./Images/LogoSquare.png' />
                     <ul>
-                        <li className={window.location.pathname === '/' ? 'current': 'normal'}><a href='/'><FontAwesomeIcon icon={faHome} /> {t('home')}</a></li>
+                        <li className={window.location.pathname === '/Emikukis' ? 'current': 'normal'}><a href='/'><FontAwesomeIcon icon={faHome} /> {t('home')}</a></li>
                         <FloatingOptions className={
-                           window.location.pathname === '/artwork' ? 'current' :
-                           window.location.pathname === '/vtuber' ? 'current' :
-                           window.location.pathname === '/emotes' ? 'current' :
+                           window.location.pathname === '/Emikukis/artwork' ? 'current' :
+                           window.location.pathname === '/Emikukis/vtuber' ? 'current' :
+                           window.location.pathname === '/Emikukis/emotes' ? 'current' :
                            'normal'
                         }>
                             <p><FontAwesomeIcon icon={faSuitcase} /> {t('portfolio')} <span>⋗</span></p>
                             <ul>
-                                <li><a href='/artwork'>ArtWork</a></li>
-                                <li><a href='/vtuber'>2dVtuber</a></li>
-                                <li><a href='/emotes'>Emotes/Badges</a></li>
+                                <li><a href='/Emikukis/artwork'>ArtWork</a></li>
+                                <li><a href='/Emikukis/vtuber'>2dVtuber</a></li>
+                                <li><a href='/Emikukis/emotes'>Emotes/Badges</a></li>
                             </ul>
                         </FloatingOptions>
-                        <li className={window.location.pathname === '/services' ? 'current': 'normal'}><a href='/services'><FontAwesomeIcon icon={faConciergeBell} /> {t('services')}</a></li>
-                        <li className={window.location.pathname === '/tos' ? 'current': 'normal'}><a href='/tos'><FontAwesomeIcon icon={faShieldAlt}  /> {t('tos')}</a></li>
-                        <li className={window.location.pathname === '/faqs' ? 'current': 'normal'}><a href='/faqs'> <FontAwesomeIcon icon={faQuestionCircle} />{t('faqs')}</a></li>
+                        <li className={window.location.pathname === '/Emikukis/services' ? 'current': 'normal'}><a href='/Emikukis/services'><FontAwesomeIcon icon={faConciergeBell} /> {t('services')}</a></li>
+                        <li className={window.location.pathname === '/Emikukis/tos' ? 'current': 'normal'}><a href='/Emikukis/tos'><FontAwesomeIcon icon={faShieldAlt}  /> {t('tos')}</a></li>
+                        <li className={window.location.pathname === '/Emikukis/faqs' ? 'current': 'normal'}><a href='/Emikukis/faqs'> <FontAwesomeIcon icon={faQuestionCircle} />{t('faqs')}</a></li>
                         <FloatingOptions>
                             <p><FontAwesomeIcon icon={faLanguage} size='lg' /> {t('language')} <span>⋗</span></p>
                             <ul>
