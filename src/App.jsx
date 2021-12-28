@@ -51,9 +51,8 @@ const App = () => {
                 <h1>Client Work</h1>
               </ArtWork>
             }/>
-            <Route path='*' element={<Home />} />
           </Routes>
-          {window.location.pathname == '/' ? null :
+          {window.location.pathname === '/' ? null :
             <Footer />
           }
         </div>

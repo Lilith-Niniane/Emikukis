@@ -16,7 +16,7 @@ const Timer = (props) => {
 
     useEffect(() => {
         setStartTimer(props.focused)
-    })
+    }, [props.focused])
 
     useEffect(() => {
         let interval = null;

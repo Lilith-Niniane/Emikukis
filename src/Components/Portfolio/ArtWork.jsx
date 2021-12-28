@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef } from 'react'
+import React, { useState, } from 'react'
 import PicDisplay from './PicDisplay'
 import styled from 'styled-components'
 import colors from '../../Colors'
@@ -120,9 +120,9 @@ const ArtWork = props => {
             <Gallery>
                 {typeof props.gallery == 'object' ? props.gallery.map(e =>
                     <Pic onClick={() => PicRoute({src: e.src, type: e.class})} key={e.src}>
-                        {e.class == 'img' ?
-                            <img className=''  src={e.src} />
-                        : e.class == 'vid' ?
+                        {e.class === 'img' ?
+                            <img className='' alt=''  src={e.src} />
+                        : e.class === 'vid' ?
                             <ReactPlayer
                                 width='100%' height='100%'
                                 url={(e.src)}
